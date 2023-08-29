@@ -6,10 +6,20 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Miguel",
-      "surnames": "Ángel Lobato Álvarez",
+      "name": "Miguel Ángel",
+      "surnames": "Lobato Álvarez",
       "title": "Product Owner at E2 IN2, S.A.",
-      "description": "I'm a self-taught person and a passionate of computers who enjoys challenges. Computer science vocation. Proactive, responsible, organized and committed person who likes to listen. Always learning.\n\nSoy una persona autodidacta y apasionada de la informática a la que le motivan los retos. Informático por vocación. Proactivo, responsable, organizado y comprometido que disfruta escuchando. Siempre aprendiendo.\n"
+      "description": "I'm a self-taught person and a passionate of computers who enjoys challenges. Computer science vocation. Proactive, responsible, organized and committed person who likes to listen. Always learning.\n\nSoy una persona autodidacta y apasionada de la informática a la que le motivan los retos. Informático por vocación. Proactivo, responsable, organizado y comprometido que disfruta escuchando. Siempre aprendiendo.\n",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/f0f85843-56d4-4493-bf7b-e3b8ecf57ad2_foto_cv_malobato.jpg",
+        "alt": "Foto_CV_MALobato.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
     },
     "interestingFacts": [
       {
