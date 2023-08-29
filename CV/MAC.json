@@ -298,12 +298,42 @@
         },
         "roles": [
           {
-            "name": "Analista programador",
+            "name": "Analista programador - Líder de equipo",
             "startDate": "2000-08-01",
             "finishDate": "2002-05-31",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "• Renfe - MIT - Desarrollé en JavaScript un cuadro de mando web.\n• CIRSA - Desarrollé en C una plataforma de interconexión de máquinas de juegos.\n• CNS - Desarrollé en Visual Basic una herramienta de workflow.\n• GMA Development Innovation - Formé a un equipo en el lenguage C/C++."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP",
+                "type": "technology"
+              },
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
               }
             ]
           }
