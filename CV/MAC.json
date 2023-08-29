@@ -247,16 +247,46 @@
       },
       {
         "organization": {
-          "name": "Digimate Computer SL"
+          "name": "Digimate Computer"
         },
         "roles": [
           {
-            "name": "Analista",
+            "name": "Analista funcional - Analista programador - Administrador Linux",
             "startDate": "2004-01-01",
             "finishDate": "2009-01-01",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "• Fundación Universidad Autónoma Madrid - Realicé el análisis de Contafguam, aplicación de contabilidad.\n• Tecmobinter - Desarrollé el portal móvil de Café del Mar.\n• Banco Santander - Realicé el análisis y desarrollé Keys&Certificates Management System.\n• EGA System - Realicé el análisis y desarrollé ERPyme, ERP para mayorista informático."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
               }
             ]
           }
