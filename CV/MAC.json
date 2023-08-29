@@ -172,7 +172,11 @@
       },
       {
         "organization": {
-          "name": "Manufacturas Graficas Plaza"
+          "name": "Manufacturas Graficas Plaza",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/aecb9e1e-3fda-4439-81df-2bf433554e6e_manufacturas-grafica.jpeg",
+            "alt": "Manufacturas Gráficas Plaza.jpeg"
+          }
         },
         "roles": [
           {
@@ -181,7 +185,61 @@
             "finishDate": "2012-01-01",
             "challenges": [
               {
-                "description": "Skills: Trabajo en equipo"
+                "description": "Skills: Trabajo en equipo\n• Cree y organicé el departamento de informática.\n• Administré sistemas Linux CentOS.\n• Implanté el framework Scrum/Kanban.\n• Estudié, documenté, optimicé procesos de la empresa para el ahorro de costes y mejora de tiempos de entrega.\n• Desarrollé una aplicación ERP para industrias gráficas.\n• Gestioné e implanté el formato color de la factura de Yoigo 2012."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Lucene",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
               }
             ]
           }
