@@ -1,0 +1,700 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Miguel Ángel",
+      "surnames": "Lobato Álvarez",
+      "title": "Product owner and software lover",
+      "description": "I’m a proud father of two and a lovely husband.\nA self-taught and passionate of the technology since I was nine.\nJava Architect, Certified Scrum Master and Product Owner.\nLinux addict. Always learning.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/21/d428ab2d-f432-4d0f-8507-53c665367f68_foto_cv_malobato.png",
+        "alt": "Foto_CV_MALobato.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJJemvUJaSQQ0RapVjTnsPUsg)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Arroyomolinos"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Me encanta escaparme con mi bicicleta de montaña",
+        "fact": "Es la mejor manera de desconectar y disfrutar del campo."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://coderszone.com/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Mapfre",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/ea83b27b-55ba-40f5-8224-a21a87914978_mapfre.png",
+            "alt": "Mapfre.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista funcional",
+            "startDate": "2012-12-01",
+            "finishDate": "2014-01-01",
+            "challenges": [
+              {
+                "description": "• Responsable de agrupación funcional para la aplicación Prestaciones - Tramitación de Mapfre \n• Hice pruebas y el seguimiento de avances en factorías."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SOA",
+                "type": "technology"
+              },
+              {
+                "name": "SoapUI",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "E2 IN2, S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/21/3ce4b626-31cd-4b78-9b0e-0f04b0031665_e2in2_logo.png",
+            "alt": "E2IN2_LOGO.png"
+          },
+          "URL": "https://e2in2.com/"
+        },
+        "roles": [
+          {
+            "name": "Project Manager - Scrum Product Owner - Scrum Master",
+            "startDate": "2012-02-01",
+            "challenges": [
+              {
+                "description": "• Desarrollé un prototipo para estudiar la viabilidad de un metaverso web 3d.\n• Seleccioné y formé varios equipos multidisciplinares.\n• Inicié los equipos como Scrum Master y pasé a Product Owner cuando estuvieron preparados.\n• Ayudé en el desarrollo de API REST del backend y funcionalidades del frontend."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Three.js",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              },
+              {
+                "name": "WebRTC",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manufacturas Gráficas Plaza",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/00f52e07-afae-4a9a-a0ef-a94df2e3919b_manufacturas-grafica.jpeg",
+            "alt": "Manufacturas Gráficas Plaza.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de informática",
+            "startDate": "2009-10-01",
+            "finishDate": "2012-11-01",
+            "challenges": [
+              {
+                "description": "• Cree y organicé el departamento de informática.\n• Administré sistemas Linux CentOS.\n• Implanté el framework Scrum/Kanban.\n• Estudié, documenté, optimicé procesos de la empresa para el ahorro de costes y mejora de tiempos de entrega.\n• Desarrollé una aplicación ERP para industrias gráficas.\n• Gestioné e implanté el formato color de la factura de Yoigo 2012."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Digimate Computer"
+        },
+        "roles": [
+          {
+            "name": "Analista funcional - Analista programador - Administrador Linux",
+            "startDate": "2004-09-01",
+            "finishDate": "2009-09-01",
+            "challenges": [
+              {
+                "description": "• Fundación Universidad Autónoma Madrid - Realicé el análisis de Contafguam, aplicación de contabilidad.\n• Tecmobinter - Desarrollé el portal móvil de Café del Mar.\n• Banco Santander - Realicé el análisis y desarrollé Keys&Certificates Management System.\n• EGA System - Realicé el análisis y desarrollé ERPyme, ERP para mayorista informático."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SVN",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Trisa Sistemas Informáticos"
+        },
+        "roles": [
+          {
+            "name": "Analista programador - Líder de equipo",
+            "startDate": "2000-08-01",
+            "finishDate": "2002-05-01",
+            "challenges": [
+              {
+                "description": "• Renfe - MIT - Desarrollé en JavaScript un cuadro de mando web.\n• CIRSA - Desarrollé en C una plataforma de interconexión de máquinas de juegos.\n• CNS - Desarrollé en Visual Basic una herramienta de workflow.\n• GMA Development Innovation - Formé a un equipo en el lenguage C/C++."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP",
+                "type": "technology"
+              },
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Deigma Business Modeling"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "1998-11-01",
+            "finishDate": "2000-07-01",
+            "challenges": [
+              {
+                "description": "• EDS - Adapté al euro y al año 2000 una aplicación de renting en Visual Basic y Access Basic.\n• Telefónica - Desarrollé una herramienta de conversión de estructura Adabas a modelo relacional en Visual Basic.\n• Ibermática - Mapfre - Desarrollé componentes ActiveX en Visual C++ para aplicación de renting."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP",
+                "type": "technology"
+              },
+              {
+                "name": "Adabas",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sabios Trade"
+        },
+        "roles": [
+          {
+            "name": "Programador",
+            "startDate": "1996-11-01",
+            "finishDate": "1997-09-01",
+            "challenges": [
+              {
+                "description": "• Desarrollé la aplicación comercial \"El Profesor Particular\", software multimedia de enseñanza asistida por ordenador.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Desafit",
+          "description": "Aplicación para hacer ejercicio y llevar una buena alimentación junto a retos entre participantes que animan a la participación.",
+          "URL": "http://www.desafit.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/21/e53706a2-27ac-454f-89d1-286e12022a2e_desafit.png",
+            "alt": "desafit.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-11-01",
+            "competences": [
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Godot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Three.js",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebRTC",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified Scrum Master",
+        "startDate": "2012-12-01",
+        "institution": {
+          "name": "Agilar",
+          "description": "Impartido por Xavier Quesada\nN 000228386"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Certified Scrum Product Owner",
+        "startDate": "2016-04-01",
+        "institution": {
+          "name": "Agilar",
+          "description": "Impartido por Xavier Quesada\nN 000228386"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática (Especialidad Comunicaciones)",
+        "startDate": "2002-09-01",
+        "institution": {
+          "name": "Universidad Carlos III de Madrid"
+        },
+        "finishDate": "2004-09-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Técnica Informática (Especialidad Sistemas)",
+        "startDate": "1993-09-01",
+        "institution": {
+          "name": "Universidad Pontificia de Salamanca"
+        },
+        "finishDate": "1997-09-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/malobatoalvarez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/6148715/malobato",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/malobato",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/malobatoalvarez",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "malobato@coderszone.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "676493767",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Spring",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Product Manager",
+        "Product Owner",
+        "Project Manager & Delivery Manager",
+        "Scrum Master & Agile Coach"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Flutter",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Lo que más me motiva es entregar valor al usuario y ver que tu trabajo es útil y no desperdicio. Si a esto le añades un buen ambiente de trabajo con retos en los que trabajar y aprender, y con mis necesidades económicas cubiertas, soy un padre de familia con hijos, formaría la receta de trabajo ideal.\nComo padre valoro el tiempo en familia y busco una empresa que tenga esto en cuenta; una empresa con la que me pueda comprometer y crecer rodeado de un buen equipo de personas de las que aprender, me encanta escuchar, y a las que aportar experiencias y conocimientos, siempre he sido muy técnico y llevo programando desde los 9 años.",
+    "goodPractices": "Llevo programando desde una edad muy temprana y con el tiempo te das cuenta de que vas aplicando buenas prácticas sin saber su nombre ya sea YAGNI, DRY, KISS, SOC, TDA o SOLID. También descubres lo fácil que se ponen las refactorizaciones con un buen conjunto de pruebas (TDD) y la tranquilidad que te da. Me encantan las metodologías ágiles (SCRUM, KANBAN), ya que vas directamente a aportar valor sin que se te pase el arroz, y muchas de las prácticas de XP como pair programming, refactoring, CI, TDD, etc.",
+    "projects": [
+      {
+        "name": "Desafit"
+      }
+    ]
+  }
+}
