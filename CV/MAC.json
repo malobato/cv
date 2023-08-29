@@ -42,7 +42,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/100effd2-4317-436a-a9d3-b2476fa81cc7_e2in2_logo.png",
             "alt": "E2IN2_LOGO.png"
-          }
+          },
+          "URL": "https://e2in2.com/"
         },
         "roles": [
           {
