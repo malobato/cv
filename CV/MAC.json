@@ -38,15 +38,89 @@
     "jobs": [
       {
         "organization": {
-          "name": "E2IN2"
+          "name": "E2 IN2",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/100effd2-4317-436a-a9d3-b2476fa81cc7_e2in2_logo.png",
+            "alt": "E2IN2_LOGO.png"
+          }
         },
         "roles": [
           {
-            "name": "Dueño de producto",
+            "name": "Project Manager - Scrum Product Owner - Scrum Master",
             "startDate": "2014-02-01",
             "challenges": [
               {
-                "description": "Skills: Planificación del sprint · Trabajo en equipo"
+                "description": "Skills: Planificación del sprint · Trabajo en equipo\n• Desarrollé un prototipo para estudiar la viabilidad de un metaverso web 3d.\n• Seleccioné y formé varios equipos multidisciplinares.\n• Inicié los equipos como Scrum Master y pasé a Product Owner cuando estuvieron preparados.\n• Ayudé en el desarrollo de API REST del backend y funcionalidades del frontend."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "ActiveMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Three.js",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              },
+              {
+                "name": "WebRTC",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
               }
             ]
           }
