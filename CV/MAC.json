@@ -393,7 +393,17 @@
             "finishDate": "1997-09-30",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "• Desarrollé la aplicación comercial \"El Profesor Particular\", software multimedia de enseñanza asistida por ordenador."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
               }
             ]
           }
