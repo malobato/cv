@@ -350,7 +350,33 @@
             "finishDate": "2000-07-31",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "• EDS - Adapté al euro y al año 2000 una aplicación de renting en Visual Basic y Access Basic.\n• Telefónica - Desarrollé una herramienta de conversión de estructura Adabas a modelo relacional en Visual Basic.\n• Ibermática - Mapfre - Desarrollé componentes ActiveX en Visual C++ para aplicación de renting."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP",
+                "type": "technology"
+              },
+              {
+                "name": "Adabas",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
               }
             ]
           }
