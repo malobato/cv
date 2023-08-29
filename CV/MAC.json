@@ -6,20 +6,10 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Miguel Ángel",
-      "surnames": "Lobato Álvarez",
-      "title": "Product owner and software lover",
-      "description": "I’m a proud father of two and a lovely husband.\nA self-taught and passionate of the technology since I was nine.\nJava Architect, Certified Scrum Master and Product Owner.\nLinux addict. Always learning.",
-      "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/21/d428ab2d-f432-4d0f-8507-53c665367f68_foto_cv_malobato.png",
-        "alt": "Foto_CV_MALobato.png"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJJemvUJaSQQ0RapVjTnsPUsg)",
-        "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Arroyomolinos"
-      }
+      "name": "Miguel",
+      "surnames": "Ángel Lobato Álvarez",
+      "title": "Product Owner at E2 IN2, S.A.",
+      "description": "I'm a self-taught person and a passionate of computers who enjoys challenges. Computer science vocation. Proactive, responsible, organized and committed person who likes to listen. Always learning.\n\nSoy una persona autodidacta y apasionada de la informática a la que le motivan los retos. Informático por vocación. Proactivo, responsable, organizado y comprometido que disfruta escuchando. Siempre aprendiendo.\n"
     },
     "interestingFacts": [
       {
@@ -38,42 +28,32 @@
     "jobs": [
       {
         "organization": {
-          "name": "Mapfre",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/ea83b27b-55ba-40f5-8224-a21a87914978_mapfre.png",
-            "alt": "Mapfre.png"
-          }
+          "name": "E2IN2"
         },
         "roles": [
           {
-            "name": "Analista funcional",
+            "name": "Dueño de producto",
+            "startDate": "2014-02-01",
+            "challenges": [
+              {
+                "description": "Skills: Planificación del sprint · Trabajo en equipo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini"
+        },
+        "roles": [
+          {
+            "name": "Analista Funcional",
             "startDate": "2012-12-01",
-            "finishDate": "2014-01-01",
+            "finishDate": "2014-02-28",
             "challenges": [
               {
-                "description": "• Responsable de agrupación funcional para la aplicación Prestaciones - Tramitación de Mapfre \n• Hice pruebas y el seguimiento de avances en factorías."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "SOA",
-                "type": "technology"
-              },
-              {
-                "name": "SoapUI",
-                "type": "technology"
-              },
-              {
-                "name": "UML",
-                "type": "technology"
+                "description": "Analista Funcional para Mapfre Seguros en el proyecto de Prestaciones-Tramitación."
               }
             ]
           }
@@ -81,94 +61,16 @@
       },
       {
         "organization": {
-          "name": "E2 IN2, S.A.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/21/3ce4b626-31cd-4b78-9b0e-0f04b0031665_e2in2_logo.png",
-            "alt": "E2IN2_LOGO.png"
-          },
-          "URL": "https://e2in2.com/"
+          "name": "Manufacturas Graficas Plaza"
         },
         "roles": [
           {
-            "name": "Project Manager - Scrum Product Owner - Scrum Master",
-            "startDate": "2012-02-01",
+            "name": "Responsable de Informática",
+            "startDate": "2008-01-01",
+            "finishDate": "2012-01-01",
             "challenges": [
               {
-                "description": "• Desarrollé un prototipo para estudiar la viabilidad de un metaverso web 3d.\n• Seleccioné y formé varios equipos multidisciplinares.\n• Inicié los equipos como Scrum Master y pasé a Product Owner cuando estuvieron preparados.\n• Ayudé en el desarrollo de API REST del backend y funcionalidades del frontend."
-              }
-            ],
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "ActiveMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JUnit",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "SonarQube",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Three.js",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
-                "type": "technology"
-              },
-              {
-                "name": "WebRTC",
-                "type": "technology"
-              },
-              {
-                "name": "WebSockets",
-                "type": "technology"
+                "description": "Skills: Trabajo en equipo"
               }
             ]
           }
@@ -176,105 +78,16 @@
       },
       {
         "organization": {
-          "name": "Manufacturas Gráficas Plaza",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/00f52e07-afae-4a9a-a0ef-a94df2e3919b_manufacturas-grafica.jpeg",
-            "alt": "Manufacturas Gráficas Plaza.jpeg"
-          }
+          "name": "Digimate Computer SL"
         },
         "roles": [
           {
-            "name": "Responsable de informática",
-            "startDate": "2009-10-01",
-            "finishDate": "2012-11-01",
+            "name": "Analista",
+            "startDate": "2004-01-01",
+            "finishDate": "2009-01-01",
             "challenges": [
               {
-                "description": "• Cree y organicé el departamento de informática.\n• Administré sistemas Linux CentOS.\n• Implanté el framework Scrum/Kanban.\n• Estudié, documenté, optimicé procesos de la empresa para el ahorro de costes y mejora de tiempos de entrega.\n• Desarrollé una aplicación ERP para industrias gráficas.\n• Gestioné e implanté el formato color de la factura de Yoigo 2012."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Hibernate",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JavaFX",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "Symfony",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Digimate Computer"
-        },
-        "roles": [
-          {
-            "name": "Analista funcional - Analista programador - Administrador Linux",
-            "startDate": "2004-09-01",
-            "finishDate": "2009-09-01",
-            "challenges": [
-              {
-                "description": "• Fundación Universidad Autónoma Madrid - Realicé el análisis de Contafguam, aplicación de contabilidad.\n• Tecmobinter - Desarrollé el portal móvil de Café del Mar.\n• Banco Santander - Realicé el análisis y desarrollé Keys&Certificates Management System.\n• EGA System - Realicé el análisis y desarrollé ERPyme, ERP para mayorista informático."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JSP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "SVN",
-                "type": "technology"
-              },
-              {
-                "name": "UML",
-                "type": "technology"
+                "description": "TBD"
               }
             ]
           }
@@ -286,42 +99,12 @@
         },
         "roles": [
           {
-            "name": "Analista programador - Líder de equipo",
+            "name": "Analista programador",
             "startDate": "2000-08-01",
-            "finishDate": "2002-05-01",
+            "finishDate": "2002-05-31",
             "challenges": [
               {
-                "description": "• Renfe - MIT - Desarrollé en JavaScript un cuadro de mando web.\n• CIRSA - Desarrollé en C una plataforma de interconexión de máquinas de juegos.\n• CNS - Desarrollé en Visual Basic una herramienta de workflow.\n• GMA Development Innovation - Formé a un equipo en el lenguage C/C++."
-              }
-            ],
-            "competences": [
-              {
-                "name": "ASP",
-                "type": "technology"
-              },
-              {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "DB2",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Basic",
-                "type": "technology"
+                "description": "TBD"
               }
             ]
           }
@@ -335,36 +118,10 @@
           {
             "name": "Programador",
             "startDate": "1998-11-01",
-            "finishDate": "2000-07-01",
+            "finishDate": "2000-07-31",
             "challenges": [
               {
-                "description": "• EDS - Adapté al euro y al año 2000 una aplicación de renting en Visual Basic y Access Basic.\n• Telefónica - Desarrollé una herramienta de conversión de estructura Adabas a modelo relacional en Visual Basic.\n• Ibermática - Mapfre - Desarrollé componentes ActiveX en Visual C++ para aplicación de renting."
-              }
-            ],
-            "competences": [
-              {
-                "name": "ASP",
-                "type": "technology"
-              },
-              {
-                "name": "Adabas",
-                "type": "technology"
-              },
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Basic",
-                "type": "technology"
+                "description": "TBD"
               }
             ]
           }
@@ -378,20 +135,10 @@
           {
             "name": "Programador",
             "startDate": "1996-11-01",
-            "finishDate": "1997-09-01",
+            "finishDate": "1997-09-30",
             "challenges": [
               {
-                "description": "• Desarrollé la aplicación comercial \"El Profesor Particular\", software multimedia de enseñanza asistida por ordenador.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Basic",
-                "type": "technology"
+                "description": "TBD"
               }
             ]
           }
