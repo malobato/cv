@@ -129,7 +129,11 @@
       },
       {
         "organization": {
-          "name": "Mapfre"
+          "name": "Mapfre",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/29/f2f5050e-72b4-46c3-9ffc-aafc9abbf0df_mapfre.png",
+            "alt": "Mapfre.png"
+          }
         },
         "roles": [
           {
@@ -139,6 +143,28 @@
             "challenges": [
               {
                 "description": "• Responsable de agrupación funcional para la aplicación Prestaciones - Tramitación de Mapfre \n• Hice pruebas y el seguimiento de avances en factorías."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SOA",
+                "type": "technology"
+              },
+              {
+                "name": "SoapUI",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
               }
             ]
           }
