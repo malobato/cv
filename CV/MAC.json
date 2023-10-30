@@ -29,6 +29,22 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/malobatoalvarez/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/malobato"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/malobatoalvarez"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/6148715/malobato"
+      },
+      {
         "type": "other",
         "URL": "https://coderszone.com/"
       }
