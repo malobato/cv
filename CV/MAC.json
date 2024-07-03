@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -41,7 +41,7 @@
         "URL": "https://twitter.com/malobatoalvarez"
       },
       {
-        "type": "other",
+        "type": "stackoverflow",
         "URL": "https://stackoverflow.com/users/6148715/malobato"
       },
       {
@@ -163,7 +163,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -214,15 +214,15 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "JSF",
                 "type": "technology"
               },
               {
                 "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -277,11 +277,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "JSP",
                 "type": "technology"
               },
               {
-                "name": "JSP",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -469,6 +469,7 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       }
     ],
@@ -499,7 +500,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -643,12 +644,6 @@
       ],
       "contactMails": [
         "malobato@coderszone.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "676493767",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -658,7 +653,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -692,7 +687,7 @@
         "Scrum Master & Agile Coach"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
@@ -705,7 +700,7 @@
         "type": "technology"
       },
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       },
       {
